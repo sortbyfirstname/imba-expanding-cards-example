@@ -8,4 +8,7 @@ The final product:
 ## Running
 * Clone the repo
 * Run `npm install` 
-* Run `npm start`
+* Run `npx http-server`
+
+## Development
+The source code resides in `src/client.imba`. Ensure you have everything required installed first by running `npm install` from the repo. Once installed, run `npm start` to run the app with hot reloading. To create a build version of the app for deployment, run `npm build`.
