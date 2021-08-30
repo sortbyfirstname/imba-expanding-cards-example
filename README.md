@@ -6,5 +6,9 @@ This is just a simple project I am working on to mess around with [Imba](https:/
 
 ## Running
 * Clone the repo
+* Run `npx http-server`
+
+## Development
+* Clone the repo
 * Run `npm install` 
 * Run `npm start`
